@@ -12,7 +12,7 @@
 * Aprenderás acerca de un segunda manera de enviar data del cliente al servidor usando **Parámetros de Ruta**.
 * Esto nos permite estructura nuestras páginas web con rutas dinámicas.
 
-## Cuerpo de HTTP y Negociacin de contenido
+## Cuerpo de HTTP y Negociación de contenido
 
 * Haz [click aquí](https://www.youtube.com/watch?v=jUcwm-rNb3g) para ver el video.
 * Estudiamos cómo el cliente y servidor utilizan el header **Content-Type** para indicar que tipo de información están enviando.
