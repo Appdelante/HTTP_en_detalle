@@ -18,4 +18,5 @@
 * Estudiamos cómo el cliente y servidor utilizan el header **Content-Type** para indicar que tipo de información están enviando.
 * Creamos una ruta que recibe respuestas a un formulario en el body de un mensaje.
 * Aprenderás cómo la página de Appdelante utiliza **Content-Type** en cada request.
+* Código que usamos el video esta [aquí](https://github.com/Appdelante/HTTP_en_detalle/tree/master/http_cuerpo_de_un_request).
 
